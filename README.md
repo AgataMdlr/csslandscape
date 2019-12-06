@@ -15,7 +15,7 @@ The aim of the project is to recreate vector illustration using CSS, technology 
 Having graphic desing bacground this way appeared to my as the best, most natural to practise those skills. 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](csslandscape/moonlight.png)
 
 ## Technologies
 * HTML 5
