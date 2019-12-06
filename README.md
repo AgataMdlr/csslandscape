@@ -31,7 +31,7 @@ Project is: almost done
 ## Inspiration
 Project based on illustration found on Google search.
 Original illustration:
-![csslandscape](./illustration_practise.png)
+![csslandscape](./illustration_practice.png)
 
 ## Contact
 Created by [@AgataMdlr](https://www.agatamadler.com/) - feel free to contact me!
