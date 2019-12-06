@@ -12,7 +12,7 @@
 
 ## General info
 The aim of the project is to recreate vector illustration using CSS, technology I recently learn and explore. 
-Having graphic desing bacground this way appeared to my as the best, most natural to practise those skills. 
+Having graphic desing bacground this way appeared to my as the best, most natural to practise those skills. At the end I have decided to add a bit of movement to the illustration, animating clouds and stars.
 
 ## Screenshots
 ![csslandscape](./moonlight.png)
@@ -20,22 +20,18 @@ Having graphic desing bacground this way appeared to my as the best, most natura
 ## Technologies
 * HTML 5
 * CSS
+* @keyfames
 
-## Features
-List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
-
-To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+## To-do list
+* Check if HTLM semantic is right
 
 ## Status
-Project is: _in progress_, _finished_, _no longer continue_ and why?
+Project is: almost done
 
 ## Inspiration
-Add here credits. Project inspired by..., based on...
+Project based on illustration found on Google search.
+Original illustration:
+![csslandscape](./illustration_practise.png)
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by [@AgataMdlr](https://www.agatamadler.com/) - feel free to contact me!
